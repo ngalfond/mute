@@ -23,7 +23,8 @@ def mute(commercial_screen):
 
 
 def main():
-    mute('nfl_network_commercial_screen.jpeg')
+    mute('nfl_network_commercial_screen.png')
     
-if '__main__' == '__name__':
+if __name__ == '__main__':
     main()
+
